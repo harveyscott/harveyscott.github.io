@@ -11,8 +11,8 @@ email: harveypeterscott@gmail.com
 description: I am a software developer from Northern Ireland iterested in all things software from front end to back end.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: wtfarray
+github_username:  harveyscott
 
 # Build settings
 markdown: kramdown
