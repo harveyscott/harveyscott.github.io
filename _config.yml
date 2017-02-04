@@ -8,9 +8,7 @@
 # Site settings
 title: Harvey Scott
 email: harveypeterscott@gmail.com
-description: > # this means to ignore newlines until "baseurl:"#
-I am a software developer from Northern Ireland iterested in all things software from front end to back end.
-
+description: I am a software developer from Northern Ireland iterested in all things software from front end to back end.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
